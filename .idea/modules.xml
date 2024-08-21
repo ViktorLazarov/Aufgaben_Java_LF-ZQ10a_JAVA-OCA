@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_Filiale/Aufgabe_Filiale.iml" filepath="$PROJECT_DIR$/Aufgabe_Filiale/Aufgabe_Filiale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_Mensch/Aufgabe_Mensch.iml" filepath="$PROJECT_DIR$/Aufgabe_Mensch/Aufgabe_Mensch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_Radio/Aufgabe_Radio.iml" filepath="$PROJECT_DIR$/Aufgabe_Radio/Aufgabe_Radio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_Socken/Aufgabe_Socken.iml" filepath="$PROJECT_DIR$/Aufgabe_Socken/Aufgabe_Socken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_Sparschwein/Aufgabe_Sparschwein.iml" filepath="$PROJECT_DIR$/Aufgabe_Sparschwein/Aufgabe_Sparschwein.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aufgaben_Java_LF-ZQ10a_JAVA-OCA.iml" filepath="$PROJECT_DIR$/.idea/Aufgaben_Java_LF-ZQ10a_JAVA-OCA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgaben_Plaetzchen/Aufgaben_Plaetzchen.iml" filepath="$PROJECT_DIR$/Aufgaben_Plaetzchen/Aufgaben_Plaetzchen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgaben_Singleton/Aufgaben_Singleton.iml" filepath="$PROJECT_DIR$/Aufgaben_Singleton/Aufgaben_Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LF-ZQ11A_Java_OCA/LF-ZQ11A_Java_OCA.iml" filepath="$PROJECT_DIR$/LF-ZQ11A_Java_OCA/LF-ZQ11A_Java_OCA.iml" />
+    </modules>
+  </component>
+</project>
