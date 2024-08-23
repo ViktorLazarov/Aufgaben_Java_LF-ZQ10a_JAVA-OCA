@@ -1,4 +1,4 @@
-package Interfaces;
+package interfaces;
 
 public interface IKreisberechnung {
     void getKFlaeche(double radius);

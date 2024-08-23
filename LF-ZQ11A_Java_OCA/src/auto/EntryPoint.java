@@ -22,6 +22,5 @@ public class EntryPoint {
                 wagen1.getKraftstoff(),
                 wagen1.getKilometerstand(),
                 wagen1.isTuev() ? "Hat TÜV" : "Hat kein TÜV");
-        
     }
 }

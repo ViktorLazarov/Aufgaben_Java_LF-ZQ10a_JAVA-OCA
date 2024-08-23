@@ -1,6 +1,6 @@
-package Interfaces;
+package interfaces;
 
-public interface IRechtecksberechnungen {
+public interface IRechtecksberechnung {
     void getRFlaeche(int laenge, int breite);
     void getRUmfang(int laenge, int breite);
 
